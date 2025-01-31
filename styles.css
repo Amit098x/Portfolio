@@ -69,7 +69,7 @@ body {
     color: #fff; /* White text inside cards */
     position: relative;
     img{
-        width: 500%;
+        width: 100%;
     }
 }
 
