@@ -67,9 +67,9 @@ body {
     margin-bottom: 30px;
     background-color: #222; /* Dark background for cards */
     color: #fff; /* White text inside cards */
-     position: relative;
+    position: relative;
     img{
-        width: 100%;
+        width: 500%;
     }
 }
 
